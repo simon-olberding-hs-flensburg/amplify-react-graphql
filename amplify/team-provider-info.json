@@ -13,7 +13,11 @@
     },
     "categories": {
       "auth": {
-        "amplifyreactgraphqlb785e1e3": {}
+        "amplifyreactgraphqlb785e1e3": {},
+        "amplifyreactgraphql": {}
+      },
+      "api": {
+        "amplifyreactgraphql": {}
       }
     }
   }
